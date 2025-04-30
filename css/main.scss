@@ -60,3 +60,34 @@ pre.highlight code,
   object-fit: cover; /* This will ensure the image covers the container without distortion */
 }
 
+/* Ensure the container centers its content */
+.navigation-container {
+  display: flex;
+  flex-direction: column; /* Stack items vertically */
+  align-items: center;    /* Center items horizontally */
+  text-align: center;     /* Center text */
+  margin: 20px 0;         /* Add spacing around the container */
+}
+
+/* Center the Projects button */
+.navigation--projects {
+  margin-bottom: 15px; /* Add space between Projects and the social icons */
+}
+
+.navigation--projects .navigation__item {
+  list-style: none; /* Remove bullet points */
+  display: inline-block; /* Keep Projects button inline */
+}
+
+/* Center the social icons */
+.navigation--social {
+  display: flex;
+  flex-wrap: wrap; /* Allow icons to wrap if necessary */
+  justify-content: center; /* Center the icons */
+  gap: 10px; /* Add spacing between the icons */
+}
+
+.navigation--social .navigation__item {
+  list-style: none; /* Remove bullet points */
+  display: inline-block; /* Keep icons inline */
+}
