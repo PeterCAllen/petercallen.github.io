@@ -1,15 +1,15 @@
 # projects section data
-- name: [2023] Scleroderma Monocyte Methylation 
+- name: (2023) Scleroderma Monocyte Methylation 
   gh_user: PeterCAllen
   repo: scleroderma_monocyte_analysis
   img: images/scleroderma.jpg
 
-- name: [2023] Systemic Lupus Erythmatosus/Lupus Nephritis Buffy Coat Methylation/Genotyping
+- name: (2023) Systemic Lupus Erythmatosus/Lupus Nephritis Buffy Coat Methylation/Genotyping
   gh_user: PeterCAllen
   repo: sle_ancestry_manuscript2023
   img: images/sle.jpg
 
-# - name: [2025] Interstitial Lung Disease BAL scRNA
-#   gh_user: PeterCAllen
-#   repo: ILD-BAL-scRNA-Manuscript-2025
-#   img: images/ildBal.jpg
+- name: (2025) Interstitial Lung Disease BAL scRNA
+  gh_user: PeterCAllen
+  repo: ILD-BAL-scRNA-Manuscript-2025
+  img: images/ildBal.jpg
