@@ -52,4 +52,23 @@ $(document).ready(function () {
   $('.navigation-wrapper .projects-button').click(function () {
     toggleMobileMenu();
   })
+
+  // Show/hide Projects and Publications sections
+  $('.projects-button').click(function(e){
+    e.preventDefault();
+    $('#projects-section').show();
+    $('#publications-section').hide();
+    $('html, body').animate({
+      scrollTop: $("#projects-section").offset().top
+    }, 500);
+  });
+
+  $('.publications-button').click(function(e){
+    e.preventDefault();
+    $('#projects-section').hide();
+    $('#publications-section').show();
+    $('html, body').animate({
+      scrollTop: $("#publications-section").offset().top
+    }, 500);
+  });
 })
