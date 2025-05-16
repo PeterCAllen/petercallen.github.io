@@ -3,12 +3,12 @@ layout: default
 robots: noindex
 ---
 
-<!--<div class="main-post-list">-->
-
+<!-- Projects Section -->
+<div id="projects-section">
+  <a id="projects"></a>
+  <h2>Projects</h2>
   <ul class="timeline">
-    
     {% for project in site.data.projects %}
-
       <li class="timeline-inverted">
         <div class="timeline-image">
           <img class="img-me" src="{{ project.img | prepend: site.baseurl }}" alt="">
@@ -22,27 +22,21 @@ robots: noindex
               {{ project.desc | markdownify }}
             {% else %}
             <div repotext="{{ project.repo }}">
-              <span class="desc"></div>
+              <span class="desc"></span>
             </div>
             {% endif %}
             <div user="{{ project.gh_user }}" repo="{{ project.repo }}" class="ghbtn" style="margin-top: 10px;">
-<!--               <a target="_blank" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/stargazers"><i class="fa fa-star"></i><span class="star"> ...</span></a>&emsp;&emsp;
-              <a target="_blank" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/network"><i class="fa fa-code-fork"></i><span class="fork"> ...</span></a>&emsp;&emsp;
-              <a target="_blank" href="https://github.com/{{ project.gh_user }}/{{ project.repo }}/watchers"><i class="far fa-eye"></i><span class="watchers"> ...</span></a> -->
-              <div style="height: 10px;"></div> 
+            </div>
+            <div style="height: 10px;"></div>
           </div>
         </div>
       </li>
     {% endfor %}
-    <!--
-    <li class="timeline-inverted">
-      <div class="timeline-image">
-        <img class="user-image" src="{{site.baseurl}}{{ site.timeline-img }}" alt="">
-      </div>
-    </li> -->
   </ul>
+</div>
 
-  <!-- Publications Section -->
+<!-- Publications Section (hidden by default) -->
+<div id="publications-section" style="display:none;">
   <a id="publications"></a>
   <h2>Publications</h2>
   <ul class="timeline">
@@ -57,7 +51,11 @@ robots: noindex
                 {{ pub.title }}
               {% endif %}
             </h4>
-            <small>{{ pub.authors }}{% if pub.journal %}, <em>{{ pub.journal }}</em>{% endif %}{% if pub.year %}, {{ pub.year }}{% endif %}</small>
+            <small>
+              {{ pub.authors }}
+              {% if pub.journal %}, <em>{{ pub.journal }}</em>{% endif %}
+              {% if pub.year %}, {{ pub.year }}{% endif %}
+            </small>
           </div>
           <div class="timeline-body">
             {% if pub.summary %}
@@ -68,7 +66,4 @@ robots: noindex
       </li>
     {% endfor %}
   </ul>
-
-
-<!--</div>-->
-
+</div>
