@@ -42,6 +42,9 @@ robots: noindex
   <ul class="timeline">
     {% for pub in site.data.publications %}
       <li class="timeline-inverted">
+        <div class="timeline-image">
+          <img class="img-me" src="{{ publication.img | prepend: site.baseurl }}" alt="">
+        </div>
         <div class="timeline-panel">
           <div class="timeline-heading">
             <h4>
