@@ -57,32 +57,20 @@ pre.highlight code,
   height: 100px;
   border: 3px solid #fff;
   border-radius: 100%;
-  object-fit: cover; /* This will ensure the image covers the container without distortion */
+  object-fit: cover;
 }
 
-/* Ensure the container centers its content */
+/* Center the container's content */
 .navigation-container {
   display: flex;
-  flex-direction: column; /* Stack items vertically */
-  align-items: center;    /* Center items horizontally */
-  text-align: center;     /* Center text */
-  margin: 20px 0;         /* Add spacing around the container */
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 20px 0;
 }
 
-/* Center the Projects button */
-.navigation--projects {
-  margin-bottom: 15px; /* Add space between Projects and the social icons */
-  width: 100%;
-  display: flex;
-  justify-content: center;
-}
-
-.navigation--projects .navigation__item {
-  list-style: none; /* Remove bullet points */
-  display: inline-block; /* Keep Projects button inline */
-}
-
-/* Center the Publications button */
+/* Center the Projects and Publications buttons */
+.navigation--projects,
 .navigation--publications {
   margin-bottom: 15px;
   width: 100%;
@@ -90,33 +78,37 @@ pre.highlight code,
   justify-content: center;
 }
 
+.navigation--projects .navigation__item,
 .navigation--publications .navigation__item {
   list-style: none;
   display: inline-block;
 }
 
 /* Center the social icons */
-.navigation--social {
+.cover-navigation.navigation--social {
   width: 100%;
   display: flex;
   justify-content: center;
   margin-top: 10px;
 }
 
-.navigation--social .navigation {
+.cover-navigation.navigation--social .navigation {
   display: flex;
-  gap: 10px;                // Space between icons
+  flex-direction: row;
   justify-content: center;
+  align-items: center;
+  gap: 10px;
   padding: 0;
   margin: 0;
 }
 
-.navigation--social .navigation__item {
-  list-style: none; /* Remove bullet points */
-  display: inline-block; /* Keep icons inline */
+.cover-navigation.navigation--social .navigation__item {
+  list-style: none;
+  display: flex;
+  align-items: center;
 }
 
-/* Optional: Remove unwanted margin for all navs */
+/* Remove unwanted margin for all navs */
 .cover-navigation .navigation {
   margin-left: 0;
   margin-right: 0;
