@@ -1,0 +1,13 @@
+- title: "Title of the Paper"
+  authors: "Author A, Author B"
+  journal: "Journal Name"
+  year: 2024
+  link: "https://doi.org/xxxxxx"
+  summary: "A brief summary or abstract of the publication."
+
+- title: "Another Publication"
+  authors: "Author C, Author D"
+  journal: "Another Journal"
+  year: 2023
+  link: "https://doi.org/yyyyyy"
+  summary: "Another summary."
