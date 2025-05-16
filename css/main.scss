@@ -57,10 +57,10 @@ pre.highlight code,
   height: 100px;
   border: 3px solid #fff;
   border-radius: 100%;
-  object-fit: cover;
+  object-fit: cover; /* Ensures the image covers the container without distortion */
 }
 
-/* Center the container's content */
+/* Ensure the container centers its content */
 .navigation-container {
   display: flex;
   flex-direction: column;
@@ -84,31 +84,42 @@ pre.highlight code,
   display: inline-block;
 }
 
-/* Center the social icons */
+/* --- Robust Centering for Social Icons --- */
 .cover-navigation.navigation--social {
   width: 100%;
   display: flex;
-  justify-content: center;
+  justify-content: center !important;
+  align-items: center;
   margin-top: 10px;
+  margin-bottom: 0;
+  padding: 0;
 }
 
 .cover-navigation.navigation--social .navigation {
-  display: flex;
+  display: flex !important;
   flex-direction: row;
-  justify-content: center;
+  justify-content: center !important;
   align-items: center;
-  gap: 10px;
+  gap: 16px;
   padding: 0;
-  margin: 0;
+  margin: 0 auto;
+  width: auto;
 }
 
 .cover-navigation.navigation--social .navigation__item {
   list-style: none;
   display: flex;
   align-items: center;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* Remove unwanted margin for all navs */
+/* Hide text labels for icons; remove if you want labels shown */
+.cover-navigation.navigation--social .navigation__item .label {
+  display: none;
+}
+
+/* Optional: Remove unwanted margin for all navs */
 .cover-navigation .navigation {
   margin-left: 0;
   margin-right: 0;
