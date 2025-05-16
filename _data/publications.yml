@@ -2,7 +2,6 @@
   authors: "Zhang, L*, Allen, P. C.*, Lutzsky, L., Apte, S., et al."
   journal: "In Submission"
   year: 2025
-  summary: ""
   img: images/pending.jpg
 
 - title: "Genome-wide DNA methylation analysis implicates enrichment of interferon pathway in African American patients with Systemic Lupus Erythematosus and European Americans with lupus nephritis"
@@ -10,7 +9,6 @@
   journal: "Journal of autoimmunity"
   year: 2023
   link: "https://doi.org/10.1016/j.jaut.2023.103089"
-  summary: ""
   img: images/jauto.jpg
   
 - title: "Distinct genome-wide DNA methylation and gene expression signatures in classical monocytes from African American patients with systemic sclerosis"
@@ -18,5 +16,4 @@
   journal: "Clinical epigenetics"
   year: 2023
   link: "https://doi.org/10.1186/s13148-023-01445-5"
-  summary: ""
   img: images/jce.jpg
