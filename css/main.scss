@@ -72,6 +72,9 @@ pre.highlight code,
 /* Center the Projects button */
 .navigation--projects {
   margin-bottom: 15px; /* Add space between Projects and the social icons */
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .navigation--projects .navigation__item {
@@ -79,15 +82,42 @@ pre.highlight code,
   display: inline-block; /* Keep Projects button inline */
 }
 
+/* Center the Publications button */
+.navigation--publications {
+  margin-bottom: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.navigation--publications .navigation__item {
+  list-style: none;
+  display: inline-block;
+}
+
 /* Center the social icons */
 .navigation--social {
+  width: 100%;
   display: flex;
-  flex-wrap: wrap; /* Allow icons to wrap if necessary */
-  justify-content: center; /* Center the icons */
-  gap: 10px; /* Add spacing between the icons */
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.navigation--social .navigation {
+  display: flex;
+  gap: 10px;                // Space between icons
+  justify-content: center;
+  padding: 0;
+  margin: 0;
 }
 
 .navigation--social .navigation__item {
   list-style: none; /* Remove bullet points */
   display: inline-block; /* Keep icons inline */
+}
+
+/* Optional: Remove unwanted margin for all navs */
+.cover-navigation .navigation {
+  margin-left: 0;
+  margin-right: 0;
 }
