@@ -1,0 +1,36 @@
+project:
+  type: website
+
+website:
+  title: "Dr Peter C. Allen"
+  favicon: images/favicons/favicon.ico
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: events.qmd
+        text: Events
+    right:
+      - icon: github
+        href: https://github.com/PeterCAllen
+        aria-label: GitHub
+      - icon: twitter-x
+        href: https://twitter.com/PeterAllen225
+        aria-label: Twitter
+      - icon: envelope
+        href: mailto:p.allen@garvan.org.au
+        aria-label: Email
+  page-footer:
+    center: "© 2026 Dr Peter C. Allen · Garvan Institute of Medical Research"
+
+format:
+  html:
+    theme: minty
+    toc: false
+    css: styles.css

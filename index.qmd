@@ -1,0 +1,30 @@
+---
+title: "Dr Peter C. Allen"
+subtitle: "Postdoctoral Researcher · Translational Genomics Program · Garvan Institute of Medical Research  \nConjoint Lecturer · UNSW Medicine and Health"
+image: images/allen_profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/PeterCAllen
+    - icon: twitter-x
+      text: Twitter
+      href: https://twitter.com/PeterAllen225
+    - text: "ORCID"
+      href: https://orcid.org/0000-0002-3950-9539
+    - icon: envelope
+      text: Email
+      href: mailto:p.allen@garvan.org.au
+---
+
+Biomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at the [Garvan Institute of Medical Research](https://www.garvan.org.au/), Sydney.
+
+Author of the first single-cell bronchoalveolar lavage atlas in ILD and contributor to multiple high-impact manuscripts in *Nature* and other peer-reviewed journals. Recipient of competitive national research funding and a national society award for excellence in oral presentation.
+
+## Research Interests
+
+- **Interstitial lung disease & IPF** — single-cell transcriptomics and multiomics of alveolar immune cells
+- **Epigenomics** — DNA methylation in systemic lupus erythematosus and systemic sclerosis
+- **Computational biology** — multi-omic integration, gene regulatory network inference, pipeline development
+- **Translational genomics** — bridging molecular findings to clinical outcomes in respiratory disease

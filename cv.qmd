@@ -1,0 +1,165 @@
+---
+title: "Curriculum Vitae"
+toc: true
+toc-depth: 2
+---
+
+::: {.d-flex .justify-content-end .mb-3}
+[Download PDF](files/cv.pdf){.btn .btn-outline-primary target="_blank"}
+:::
+
+## Professional Summary
+
+Biomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at one of Australia's leading medical research institutes. Author of the first single-cell bronchoalveolar lavage atlas in ILD and contributor to multiple high-impact manuscripts in *Nature* and other peer-reviewed journals. Recipient of competitive national research funding and recognised with a national society award for excellence in oral presentation.
+
+---
+
+## Education
+
+| Years | Degree | Institution |
+|-------|--------|-------------|
+| 2018–2023 | **Doctor of Philosophy in Genetics** | University of Alabama at Birmingham, USA *(Dissertation conducted at HudsonAlpha Institute for Biotechnology)* |
+| 2012–2016 | **Bachelor of Science in Biology** | Trevecca Nazarene University, Nashville, TN, USA |
+
+---
+
+## Current Appointments
+
+**Postdoctoral Researcher** · Sept 2023–present
+Translational Genomics Program, Garvan Institute of Medical Research, Sydney
+*Supervisor: Professor Joseph Powell*
+
+- Lead computational analyses of single-cell multi-omic data in interstitial lung disease (ILD) and idiopathic pulmonary fibrosis (IPF)
+- Coordinate multi-institutional collaborative studies, including an international collaboration with Professor Nick Banovich (TGen, USA) providing access to a 200-patient IPF lung explant multiome dataset
+- Mentor junior researchers on experimental study design and advanced computational methodologies
+- Lead author on the first single-cell bronchoalveolar lavage atlas in ILD (Allen & Zhang et al., *PLOS ONE*, 2026)
+
+**Conjoint Lecturer** · Aug 2024–present
+School of Biomedical Sciences, UNSW Medicine and Health, Sydney
+
+---
+
+## Prior Employment
+
+**PhD Candidate Researcher** · 2018–2023
+HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA
+
+- Researched the epigenetics of autoimmune diseases including Systemic Sclerosis and Systemic Lupus Erythematosus
+- Developed methylation-specific assays to identify lupus-specific signals in patient blood samples
+- Created bioinformatic pipelines to analyse genome-wide methylation and expression data
+
+**Cell Manufacturing Associate** · 2017–2018
+Cognate Biosciences, Memphis, TN, USA
+
+- Modified immune cell populations to target the Epstein-Barr virus antigen in patients with childhood lymphoma
+
+**Allograft Processing Technician** · 2016–2017
+Derma Sciences Inc., USA
+
+- Processed amniotic and chorionic tissues from postnatal placentas for use as allografts for lesions and eye injuries
+
+---
+
+## Awards and Honours
+
+| Year | Award |
+|------|-------|
+| 2026 | **TSANZ Cell, Immunology and Molecular Biology of the Lung SIG Award — Best Oral Presentation** ($1,000 AUD). Awarded by the Thoracic Society of Australia and New Zealand for "Deconvoluting fibrotic niches in idiopathic pulmonary fibrosis lungs using single-cell multiomics," TSANZSRS Annual Scientific Meeting, Perth. |
+
+---
+
+## Competitive Research Funding
+
+| Year | Grant | Role | Value |
+|------|-------|------|-------|
+| 2026 | CRE in Pulmonary Fibrosis Kickstarter Grant | Chief Investigator | $100,000 |
+| 2026 | CRE in Pulmonary Fibrosis Travel Grant | Chief Investigator | $2,000 |
+
+---
+
+## Publications
+
+Author name shown in **bold**. Co-first authorship indicated by asterisk (\*).
+
+See the full [Publications](publications.qmd) page.
+
+---
+
+## Invited Talks and Conference Presentations
+
+### Invited Seminars
+
+**March 2026** — "Understanding ILD using single-cell genomics"
+Harry Perkins Institute of Medical Research, Perth, Australia
+*Hosts: Professors Steve Mutsaers and Cecilia Prêle*
+
+### Oral Presentations
+
+**March 2026** — "Deconvoluting fibrotic niches in idiopathic pulmonary fibrosis lungs using single-cell multiomics"
+TSANZSRS Annual Scientific Meeting, Perth, Australia
+*Awarded TSANZ Cell, Immunology and Molecular Biology of the Lung SIG Award for Best Oral Presentation*
+
+**March 2026** — "Beyond the sum of its parts: a new framework for understanding fibrotic lung disease"
+TSANZSRS Annual Scientific Meeting Postgraduate Workshop, Perth, Australia
+
+### Poster Presentations
+
+- **2025** — Oz Single Cell Conference, Sydney, Australia
+- **2019** — American College of Rheumatology Annual Meeting, USA *(Epigenetic markers in Systemic Sclerosis)*
+
+### Other Speaking Engagements
+
+- **2024** — Speaker, Garvan Day of Immunology, Garvan Institute of Medical Research, Sydney
+- **2024** — Session Chair (Immunology), St Vincent's Sydney Health Innovation Precinct, Sydney
+- **2021–2023** — Guest Lecturer, Oakwood University, Huntsville, AL, USA *(Genetics and bioinformatics for senior university students)*
+
+---
+
+## Professional Service
+
+**Peer Review**
+
+- Reviewer, *Clinical Epigenetics*
+
+**Workshop and Event Organisation**
+
+- **2025** — Host, Single Cell Oz Hackathon, Sydney
+- **2024** — Workshop Host and Presenter, CREATE Genomics Workshop
+
+---
+
+## Research Collaborations
+
+**International**
+
+- Professor Nick Banovich, TGen, Phoenix, Arizona, USA — 200-patient IPF lung explant multiome dataset
+- University of North Carolina at Chapel Hill, USA — Systemic Sclerosis research collaboration
+
+**Domestic**
+
+- Queensland Lung Transplant Service Lab, Brisbane — interstitial lung disease research
+- Royal Prince Alfred Hospital, Sydney — interstitial lung disease research
+
+---
+
+## Technical Expertise
+
+**Computational and bioinformatic:** single-cell RNA sequencing analysis; single-cell ATAC sequencing analysis; multi-omic data integration; gene regulatory network inference; differential expression and trajectory analysis; whole-genome and epigenome-wide association studies; pipeline development (Nextflow, Snakemake); high-performance and cloud computing.
+
+**Programming:** R, Python, Bash, Git.
+
+**Wet-lab:** methylation-specific assay development; cell-based immune modification (CAR-T background); tissue processing for clinical-grade allograft applications.
+
+**Disease areas:** interstitial lung disease, idiopathic pulmonary fibrosis, systemic lupus erythematosus, systemic sclerosis, Epstein-Barr virus-related lymphomas.
+
+---
+
+## Professional Memberships
+
+- Lung Foundation of Australia
+
+---
+
+## Referees
+
+Available on request.

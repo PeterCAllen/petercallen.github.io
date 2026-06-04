@@ -1,0 +1,50 @@
+---
+title: "Events"
+---
+
+## 2025 Oz Single Cell Hackathon
+
+**19–21 May 2025 · Sydney, Australia**
+
+As host and organiser, I brought together experimental (wet-lab) and computational (dry-lab) scientists for three days of intensive collaboration on outstanding challenges in single-cell multiomics. The event ran right into the Oz Single Cell 2025 Conference.
+
+**Programme:**
+
+- **Mon 19 May** (9am–6pm) — Garvan Institute of Medical Research, Auditorium
+- **Tue 20 May** (9am–5pm) — The Kinghorn Cancer Centre
+- **Wed 21 May** (9am–11am) — Garvan Institute of Medical Research, Auditorium *(results presentation)*
+
+**Focus:** scMultiome integration challenges — tackling batch correction, multi-modal data integration, and cell-type annotation across large-scale single-cell datasets.
+
+The hackathon aimed to seed new projects and collaborations, produce new tools for single-cell data visualisation and analysis, and contribute to a Grand Challenges summary publication.
+
+### Materials
+
+| Resource | Link |
+|----------|------|
+| Hackathon website | [petercallen.github.io/2025-OSC-hackathon](https://petercallen.github.io/2025-OSC-hackathon/) |
+| GitHub repository | [PeterCAllen/2025-OSC-hackathon](https://github.com/PeterCAllen/2025-OSC-hackathon) |
+
+---
+
+## CREATE Genomics Workshop 2024
+
+**25 July 2024 · Garvan Institute of Medical Research, Sydney**
+
+I delivered a hands-on demonstration on analysing ILD bronchoalveolar lavage (BAL) scRNA-seq data, covering the full analysis pipeline from raw data to annotated cell populations.
+
+**Topics covered:**
+
+- **Overview** — Why single-cell RNA sequencing? Capturing cellular heterogeneity and sub-lineages lost in bulk sequencing; ILD cohort of 33 BAL samples across 3 phases including IPF, HP, SR-ILD, Silicosis, NSIP, and PPFE
+- **Quality Control** — UMI count filtering, ambient RNA removal (SoupX/CellBender), mitochondrial percentage thresholds, batch effect assessment
+- **Integration** — Multi-sample integration using scVI and Harmony/Seurat to separate biological signal from batch artefact; gene expression normalisation (shifted logarithm)
+- **Clustering** — Grouping cells by expression profile using Leiden, Louvain, and K-means algorithms
+- **Annotation** — Automated annotation with Azimuth, Celltypist, and Scimilarity; manual annotation using known cell-type marker genes
+
+*Note: a live coding demonstration accompanied these slides; recording is unavailable.*
+
+### Materials
+
+| Resource | Link |
+|----------|------|
+| Slides (PDF) | [Download](files/2024-CREATE-genomics-workshop-slides.pdf) |
