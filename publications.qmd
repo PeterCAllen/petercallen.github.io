@@ -10,7 +10,7 @@ See also my [ORCID profile](https://orcid.org/0000-0002-3950-9539) for a complet
 
 ### 2026
 
-1. **Allen P**\*, Zhang LY\*, Zissel G, Lutzky VP, Apte SH, Groves PL, Tan ME, De Silva T, Spenceley ER, McCloy RA, et al. Single-cell transcriptomics of bronchoalveolar lavage reveals divergent macrophage subpopulations and trajectories in interstitial lung disease. *PLOS ONE* (2026). [DOI: 10.1371/journal.pone.0347852](https://doi.org/10.1371/journal.pone.0347852)
+1. Zhang LY\*, **Allen PC**\*, Zissel G, Lutzky VP, Apte SH, Groves PL, Tan ME, De Silva T, Spenceley ER, McCloy RA, et al. Single-cell transcriptomics of bronchoalveolar lavage reveals divergent macrophage subpopulations and trajectories in interstitial lung disease. *PLOS ONE* (2026). [DOI: 10.1371/journal.pone.0347852](https://doi.org/10.1371/journal.pone.0347852)
 
 2. Idrees S, Chen H, Sadaf T, Rehman SF, Johansen MD, Paudel KR, Liu G, Wang Y, Luecken MD, Hortle E, Philp AS, Budden KF, O'Rourke M, Kaiko GE, Lucas SEM, Dickinson JL, **Allen PC**, Powell JE, Zhang LY, Chambers DC, et al. Multi-omics to study chronic respiratory diseases and viral infections. *European Respiratory Review* 35(179) (2026).
 
