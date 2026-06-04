@@ -1,0 +1,170 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "My research projects focus on the molecular underpinnings of respiratory and autoimmune diseases using multi-omics approaches. All code and analysis pipelines are publicly available on GitHub."
+  },
+  {
+    "objectID": "projects.html#interstitial-lung-disease-bal-scrna-seq-2025",
+    "href": "projects.html#interstitial-lung-disease-bal-scrna-seq-2025",
+    "title": "Research Projects",
+    "section": "Interstitial Lung Disease — BAL scRNA-seq (2025)",
+    "text": "Interstitial Lung Disease — BAL scRNA-seq (2025)\n\nSingle-cell RNA sequencing of bronchoalveolar lavage (BAL) fluid from patients with interstitial lung disease (ILD). This project characterises alveolar immune cell populations in pulmonary fibrosis and identifies novel transcriptomic signatures associated with disease progression.\nView on GitHub →"
+  },
+  {
+    "objectID": "projects.html#systemic-lupus-erythematosus-ancestry-methylation-2023",
+    "href": "projects.html#systemic-lupus-erythematosus-ancestry-methylation-2023",
+    "title": "Research Projects",
+    "section": "Systemic Lupus Erythematosus — Ancestry Methylation (2023)",
+    "text": "Systemic Lupus Erythematosus — Ancestry Methylation (2023)\n\nGenome-wide DNA methylation analysis of buffy coat samples from African American and European American cohorts with SLE and lupus nephritis. Identified ancestry-specific epigenetic signatures and interferon pathway enrichment driving disease heterogeneity.\nView on GitHub →"
+  },
+  {
+    "objectID": "projects.html#scleroderma-monocyte-methylation-2023",
+    "href": "projects.html#scleroderma-monocyte-methylation-2023",
+    "title": "Research Projects",
+    "section": "Scleroderma — Monocyte Methylation (2023)",
+    "text": "Scleroderma — Monocyte Methylation (2023)\n\nGenome-wide DNA methylation and gene expression profiling of classical monocytes in African American patients with systemic sclerosis (SSc). Characterised distinct epigenetic signatures distinguishing SSc monocytes from healthy controls.\nView on GitHub →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr Peter C. Allen",
+    "section": "",
+    "text": "Biomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at the Garvan Institute of Medical Research, Sydney.\nAuthor of the first single-cell bronchoalveolar lavage atlas in ILD and contributor to multiple high-impact manuscripts in Nature and other peer-reviewed journals. Recipient of competitive national research funding and a national society award for excellence in oral presentation."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Dr Peter C. Allen",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nInterstitial lung disease & IPF — single-cell transcriptomics and multiomics of alveolar immune cells\nEpigenomics — DNA methylation in systemic lupus erythematosus and systemic sclerosis\nComputational biology — multi-omic integration, gene regulatory network inference, pipeline development\nTranslational genomics — bridging molecular findings to clinical outcomes in respiratory disease"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Author name shown in bold. Co-first authorship indicated by asterisk (*).\nSee also my ORCID profile for a complete and up-to-date list.\n\n\n2026\n\nAllen P*, Zhang LY*, Zissel G, Lutzky VP, Apte SH, Groves PL, Tan ME, De Silva T, Spenceley ER, McCloy RA, et al. Single-cell transcriptomics of bronchoalveolar lavage reveals divergent macrophage subpopulations and trajectories in interstitial lung disease. PLOS ONE (2026). DOI: 10.1371/journal.pone.0347852\nIdrees S, Chen H, Sadaf T, Rehman SF, Johansen MD, Paudel KR, Liu G, Wang Y, Luecken MD, Hortle E, Philp AS, Budden KF, O’Rourke M, Kaiko GE, Lucas SEM, Dickinson JL, Allen PC, Powell JE, Zhang LY, Chambers DC, et al. Multi-omics to study chronic respiratory diseases and viral infections. European Respiratory Review 35(179) (2026).\n\n\n\n\n2025\n\nTanudisastro H, Cuomo A, Weisburd B, Welland M, Spenceley E, Franklin M, Xue A, Bowen B, Wing K, … Allen P, et al. Tandem repeat variation shapes immune cell type-specific gene expression. Nature (in press, 2025).\nHenry A, Senabouth A, … Allen PC, et al. Single-cell genetics identifies cell type-specific causal mechanisms in complex traits and diseases. Nature (under review, 2025).\nXue A, Fan J, … Allen PC, et al. Genetic regulation of cell type-specific chromatin accessibility shapes immune function and disease risk. Nature (under review, 2025). Preprint: doi.org/10.1101/2025.08.27.25334533\n\n\n\n\n2023\n\nAllen P, et al. Genome-wide DNA methylation analysis implicates enrichment of interferon pathway in African American patients with Systemic Lupus Erythematosus and European Americans with lupus nephritis. Journal of Autoimmunity (2023). DOI: 10.1016/j.jaut.2023.103089\nAllen P, et al. Distinct genome-wide DNA methylation and gene expression signatures in classical monocytes from African American patients with systemic sclerosis. Clinical Epigenetics (2023). DOI: 10.1186/s13148-023-01445-5"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF"
+  },
+  {
+    "objectID": "cv.html#professional-summary",
+    "href": "cv.html#professional-summary",
+    "title": "Curriculum Vitae",
+    "section": "Professional Summary",
+    "text": "Professional Summary\nBiomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at one of Australia’s leading medical research institutes. Author of the first single-cell bronchoalveolar lavage atlas in ILD and contributor to multiple high-impact manuscripts in Nature and other peer-reviewed journals. Recipient of competitive national research funding and recognised with a national society award for excellence in oral presentation."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\n\n\nYears\nDegree\nInstitution\n\n\n\n\n2018–2023\nDoctor of Philosophy in Genetics\nUniversity of Alabama at Birmingham, USA (Dissertation conducted at HudsonAlpha Institute for Biotechnology)\n\n\n2012–2016\nBachelor of Science in Biology\nTrevecca Nazarene University, Nashville, TN, USA"
+  },
+  {
+    "objectID": "cv.html#current-appointments",
+    "href": "cv.html#current-appointments",
+    "title": "Curriculum Vitae",
+    "section": "Current Appointments",
+    "text": "Current Appointments\nPostdoctoral Researcher · Sept 2023–present Translational Genomics Program, Garvan Institute of Medical Research, Sydney Supervisor: Professor Joseph Powell\n\nLead computational analyses of single-cell multi-omic data in interstitial lung disease (ILD) and idiopathic pulmonary fibrosis (IPF)\nCoordinate multi-institutional collaborative studies, including an international collaboration with Professor Nick Banovich (TGen, USA) providing access to a 200-patient IPF lung explant multiome dataset\nMentor junior researchers on experimental study design and advanced computational methodologies\nLead author on the first single-cell bronchoalveolar lavage atlas in ILD (Allen & Zhang et al., PLOS ONE, 2026)\n\nConjoint Lecturer · Aug 2024–present School of Biomedical Sciences, UNSW Medicine and Health, Sydney"
+  },
+  {
+    "objectID": "cv.html#prior-employment",
+    "href": "cv.html#prior-employment",
+    "title": "Curriculum Vitae",
+    "section": "Prior Employment",
+    "text": "Prior Employment\nPhD Candidate Researcher · 2018–2023 HudsonAlpha Institute for Biotechnology, Huntsville, AL, USA\n\nResearched the epigenetics of autoimmune diseases including Systemic Sclerosis and Systemic Lupus Erythematosus\nDeveloped methylation-specific assays to identify lupus-specific signals in patient blood samples\nCreated bioinformatic pipelines to analyse genome-wide methylation and expression data\n\nCell Manufacturing Associate · 2017–2018 Cognate Biosciences, Memphis, TN, USA\n\nModified immune cell populations to target the Epstein-Barr virus antigen in patients with childhood lymphoma\n\nAllograft Processing Technician · 2016–2017 Derma Sciences Inc., USA\n\nProcessed amniotic and chorionic tissues from postnatal placentas for use as allografts for lesions and eye injuries"
+  },
+  {
+    "objectID": "cv.html#awards-and-honours",
+    "href": "cv.html#awards-and-honours",
+    "title": "Curriculum Vitae",
+    "section": "Awards and Honours",
+    "text": "Awards and Honours\n\n\n\n\n\n\n\nYear\nAward\n\n\n\n\n2026\nTSANZ Cell, Immunology and Molecular Biology of the Lung SIG Award — Best Oral Presentation ($1,000 AUD). Awarded by the Thoracic Society of Australia and New Zealand for “Deconvoluting fibrotic niches in idiopathic pulmonary fibrosis lungs using single-cell multiomics,” TSANZSRS Annual Scientific Meeting, Perth."
+  },
+  {
+    "objectID": "cv.html#competitive-research-funding",
+    "href": "cv.html#competitive-research-funding",
+    "title": "Curriculum Vitae",
+    "section": "Competitive Research Funding",
+    "text": "Competitive Research Funding\n\n\n\n\n\n\n\n\n\nYear\nGrant\nRole\nValue\n\n\n\n\n2026\nCRE in Pulmonary Fibrosis Kickstarter Grant\nChief Investigator\n$100,000\n\n\n2026\nCRE in Pulmonary Fibrosis Travel Grant\nChief Investigator\n$2,000"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\nAuthor name shown in bold. Co-first authorship indicated by asterisk (*).\nSee the full Publications page."
+  },
+  {
+    "objectID": "cv.html#invited-talks-and-conference-presentations",
+    "href": "cv.html#invited-talks-and-conference-presentations",
+    "title": "Curriculum Vitae",
+    "section": "Invited Talks and Conference Presentations",
+    "text": "Invited Talks and Conference Presentations\n\nInvited Seminars\nMarch 2026 — “Understanding ILD using single-cell genomics” Harry Perkins Institute of Medical Research, Perth, Australia Hosts: Professors Steve Mutsaers and Cecilia Prêle\n\n\nOral Presentations\nMarch 2026 — “Deconvoluting fibrotic niches in idiopathic pulmonary fibrosis lungs using single-cell multiomics” TSANZSRS Annual Scientific Meeting, Perth, Australia Awarded TSANZ Cell, Immunology and Molecular Biology of the Lung SIG Award for Best Oral Presentation\nMarch 2026 — “Beyond the sum of its parts: a new framework for understanding fibrotic lung disease” TSANZSRS Annual Scientific Meeting Postgraduate Workshop, Perth, Australia\n\n\nPoster Presentations\n\n2025 — Oz Single Cell Conference, Sydney, Australia\n2019 — American College of Rheumatology Annual Meeting, USA (Epigenetic markers in Systemic Sclerosis)\n\n\n\nOther Speaking Engagements\n\n2024 — Speaker, Garvan Day of Immunology, Garvan Institute of Medical Research, Sydney\n2024 — Session Chair (Immunology), St Vincent’s Sydney Health Innovation Precinct, Sydney\n2021–2023 — Guest Lecturer, Oakwood University, Huntsville, AL, USA (Genetics and bioinformatics for senior university students)"
+  },
+  {
+    "objectID": "cv.html#professional-service",
+    "href": "cv.html#professional-service",
+    "title": "Curriculum Vitae",
+    "section": "Professional Service",
+    "text": "Professional Service\nPeer Review\n\nReviewer, Clinical Epigenetics\n\nWorkshop and Event Organisation\n\n2025 — Host, Single Cell Oz Hackathon, Sydney\n2024 — Workshop Host and Presenter, CREATE Genomics Workshop"
+  },
+  {
+    "objectID": "cv.html#research-collaborations",
+    "href": "cv.html#research-collaborations",
+    "title": "Curriculum Vitae",
+    "section": "Research Collaborations",
+    "text": "Research Collaborations\nInternational\n\nProfessor Nick Banovich, TGen, Phoenix, Arizona, USA — 200-patient IPF lung explant multiome dataset\nUniversity of North Carolina at Chapel Hill, USA — Systemic Sclerosis research collaboration\n\nDomestic\n\nQueensland Lung Transplant Service Lab, Brisbane — interstitial lung disease research\nRoyal Prince Alfred Hospital, Sydney — interstitial lung disease research"
+  },
+  {
+    "objectID": "cv.html#technical-expertise",
+    "href": "cv.html#technical-expertise",
+    "title": "Curriculum Vitae",
+    "section": "Technical Expertise",
+    "text": "Technical Expertise\nComputational and bioinformatic: single-cell RNA sequencing analysis; single-cell ATAC sequencing analysis; multi-omic data integration; gene regulatory network inference; differential expression and trajectory analysis; whole-genome and epigenome-wide association studies; pipeline development (Nextflow, Snakemake); high-performance and cloud computing.\nProgramming: R, Python, Bash, Git.\nWet-lab: methylation-specific assay development; cell-based immune modification (CAR-T background); tissue processing for clinical-grade allograft applications.\nDisease areas: interstitial lung disease, idiopathic pulmonary fibrosis, systemic lupus erythematosus, systemic sclerosis, Epstein-Barr virus-related lymphomas."
+  },
+  {
+    "objectID": "cv.html#professional-memberships",
+    "href": "cv.html#professional-memberships",
+    "title": "Curriculum Vitae",
+    "section": "Professional Memberships",
+    "text": "Professional Memberships\n\nLung Foundation of Australia"
+  },
+  {
+    "objectID": "cv.html#referees",
+    "href": "cv.html#referees",
+    "title": "Curriculum Vitae",
+    "section": "Referees",
+    "text": "Referees\nAvailable on request."
+  },
+  {
+    "objectID": "events.html",
+    "href": "events.html",
+    "title": "Events",
+    "section": "",
+    "text": "19–21 May 2025 · Sydney, Australia\nAs host and organiser, I brought together experimental (wet-lab) and computational (dry-lab) scientists for three days of intensive collaboration on outstanding challenges in single-cell multiomics. The event ran right into the Oz Single Cell 2025 Conference.\nProgramme:\n\nMon 19 May (9am–6pm) — Garvan Institute of Medical Research, Auditorium\nTue 20 May (9am–5pm) — The Kinghorn Cancer Centre\nWed 21 May (9am–11am) — Garvan Institute of Medical Research, Auditorium (results presentation)\n\nFocus: scMultiome integration challenges — tackling batch correction, multi-modal data integration, and cell-type annotation across large-scale single-cell datasets.\nThe hackathon aimed to seed new projects and collaborations, produce new tools for single-cell data visualisation and analysis, and contribute to a Grand Challenges summary publication.\n\n\n\n\n\nResource\nLink\n\n\n\n\nHackathon website\npetercallen.github.io/2025-OSC-hackathon\n\n\nGitHub repository\nPeterCAllen/2025-OSC-hackathon"
+  },
+  {
+    "objectID": "events.html#oz-single-cell-hackathon",
+    "href": "events.html#oz-single-cell-hackathon",
+    "title": "Events",
+    "section": "",
+    "text": "19–21 May 2025 · Sydney, Australia\nAs host and organiser, I brought together experimental (wet-lab) and computational (dry-lab) scientists for three days of intensive collaboration on outstanding challenges in single-cell multiomics. The event ran right into the Oz Single Cell 2025 Conference.\nProgramme:\n\nMon 19 May (9am–6pm) — Garvan Institute of Medical Research, Auditorium\nTue 20 May (9am–5pm) — The Kinghorn Cancer Centre\nWed 21 May (9am–11am) — Garvan Institute of Medical Research, Auditorium (results presentation)\n\nFocus: scMultiome integration challenges — tackling batch correction, multi-modal data integration, and cell-type annotation across large-scale single-cell datasets.\nThe hackathon aimed to seed new projects and collaborations, produce new tools for single-cell data visualisation and analysis, and contribute to a Grand Challenges summary publication.\n\n\n\n\n\nResource\nLink\n\n\n\n\nHackathon website\npetercallen.github.io/2025-OSC-hackathon\n\n\nGitHub repository\nPeterCAllen/2025-OSC-hackathon"
+  },
+  {
+    "objectID": "events.html#create-genomics-workshop-2024",
+    "href": "events.html#create-genomics-workshop-2024",
+    "title": "Events",
+    "section": "CREATE Genomics Workshop 2024",
+    "text": "CREATE Genomics Workshop 2024\n25 July 2024 · Garvan Institute of Medical Research, Sydney\nI delivered a hands-on demonstration on analysing ILD bronchoalveolar lavage (BAL) scRNA-seq data, covering the full analysis pipeline from raw data to annotated cell populations.\nTopics covered:\n\nOverview — Why single-cell RNA sequencing? Capturing cellular heterogeneity and sub-lineages lost in bulk sequencing; ILD cohort of 33 BAL samples across 3 phases including IPF, HP, SR-ILD, Silicosis, NSIP, and PPFE\nQuality Control — UMI count filtering, ambient RNA removal (SoupX/CellBender), mitochondrial percentage thresholds, batch effect assessment\nIntegration — Multi-sample integration using scVI and Harmony/Seurat to separate biological signal from batch artefact; gene expression normalisation (shifted logarithm)\nClustering — Grouping cells by expression profile using Leiden, Louvain, and K-means algorithms\nAnnotation — Automated annotation with Azimuth, Celltypist, and Scimilarity; manual annotation using known cell-type marker genes\n\nNote: a live coding demonstration accompanied these slides; recording is unavailable.\n\nMaterials\n\n\n\nResource\nLink\n\n\n\n\nSlides (PDF)\nDownload"
+  }
+]
