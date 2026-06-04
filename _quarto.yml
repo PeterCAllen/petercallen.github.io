@@ -17,6 +17,9 @@ website:
       - href: events.qmd
         text: Events
     right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/peter-allen-92005a7a
+        aria-label: LinkedIn
       - icon: github
         href: https://github.com/PeterCAllen
         aria-label: GitHub

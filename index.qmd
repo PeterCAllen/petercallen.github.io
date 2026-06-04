@@ -5,6 +5,9 @@ image: images/profile_2026.jpg
 about:
   template: trestles
   links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/peter-allen-92005a7a
     - icon: github
       text: GitHub
       href: https://github.com/PeterCAllen
