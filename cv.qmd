@@ -10,7 +10,7 @@ toc-depth: 2
 
 ## Professional Summary
 
-Biomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at one of Australia's leading medical research institutes. Author of the first single-cell bronchoalveolar lavage atlas in ILD and contributor to multiple high-impact manuscripts in *Nature* and other peer-reviewed journals. Recipient of competitive national research funding and recognised with a national society award for excellence in oral presentation.
+Biomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at one of Australia's leading medical research institutes. Co-first author of a comprehensive pan-ILD single-cell atlas of bronchoalveolar lavage and contributor to multiple high-impact manuscripts in *Nature* and other peer-reviewed journals. Recipient of competitive national research funding and recognised with a national society award for excellence in oral presentation.
 
 ---
 
@@ -32,7 +32,7 @@ Translational Genomics Program, Garvan Institute of Medical Research, Sydney
 - Lead computational analyses of single-cell multi-omic data in interstitial lung disease (ILD) and idiopathic pulmonary fibrosis (IPF)
 - Coordinate multi-institutional collaborative studies, including an international collaboration with Professor Nick Banovich (TGen, USA) providing access to a 200-patient IPF lung explant multiome dataset
 - Mentor junior researchers on experimental study design and advanced computational methodologies
-- Lead author on the first single-cell bronchoalveolar lavage atlas in ILD (Allen & Zhang et al., *PLOS ONE*, 2026)
+- Co-first author of a comprehensive pan-ILD single-cell atlas of bronchoalveolar lavage (Allen & Zhang et al., *PLOS ONE*, 2026)
 
 **Conjoint Lecturer** · Aug 2024–present
 School of Biomedical Sciences, UNSW Medicine and Health, Sydney

@@ -23,7 +23,7 @@ about:
 
 Biomedical researcher with specialised expertise in single-cell genomics, epigenetics, and computational analysis of immune and respiratory disease. PhD-trained in genetics with subsequent postdoctoral experience leading computational analyses of interstitial lung disease (ILD) at the [Garvan Institute of Medical Research](https://www.garvan.org.au/), Sydney.
 
-Author of the first single-cell bronchoalveolar lavage atlas in ILD and contributor to multiple high-impact manuscripts in *Nature* and other peer-reviewed journals. Recipient of competitive national research funding and a national society award for excellence in oral presentation.
+Co-first author of a comprehensive pan-ILD single-cell atlas of bronchoalveolar lavage and contributor to multiple high-impact manuscripts in *Nature* and other peer-reviewed journals. Recipient of competitive national research funding and a national society award for excellence in oral presentation.
 
 ## Research Interests
 
